@@ -92,4 +92,4 @@ bot.on("message", message => { // When a message is created
 
 
 
-bot.login('MzYwODc0NTkzOTk4NzMzMzE0.DMrajQ.KmRhEdGN3vOTiAgVBKJ7X_3_a_I');
+
